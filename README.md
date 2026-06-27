@@ -46,13 +46,13 @@ Manual inspection of concrete structures is time-consuming and prone to human er
 
 ## Prediction Result - Crack Detected
 
-<img src="assets/screenshots/crack_prediction.png" width="750">
+<img src="assets/screenshots/positive.png" width="750">
 
 ---
 
 ## Prediction Result - No Crack
 
-<img src="assets/screenshots/no_crack_prediction.png" width="750">
+<img src="assets/screenshots/negative.png" width="750">
 
 ---
 
@@ -280,5 +280,3 @@ LinkedIn
 https://www.linkedin.com/in/vinita-patil-a87052303/
 
 ---
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
